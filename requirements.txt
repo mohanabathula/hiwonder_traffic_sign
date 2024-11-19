@@ -1,0 +1,6 @@
+setuptools
+Flask[async]
+numpy
+opencv-python
+yolov5
+asyncio
